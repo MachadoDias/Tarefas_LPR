@@ -1,0 +1,15 @@
+/home/gabriel/lpr/Tarefas_LPR/Aula4/rpg/bin/Debug/net9.0/rpg
+/home/gabriel/lpr/Tarefas_LPR/Aula4/rpg/bin/Debug/net9.0/rpg.deps.json
+/home/gabriel/lpr/Tarefas_LPR/Aula4/rpg/bin/Debug/net9.0/rpg.runtimeconfig.json
+/home/gabriel/lpr/Tarefas_LPR/Aula4/rpg/bin/Debug/net9.0/rpg.dll
+/home/gabriel/lpr/Tarefas_LPR/Aula4/rpg/bin/Debug/net9.0/rpg.pdb
+/home/gabriel/lpr/Tarefas_LPR/Aula4/rpg/obj/Debug/net9.0/rpg.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/lpr/Tarefas_LPR/Aula4/rpg/obj/Debug/net9.0/rpg.AssemblyInfoInputs.cache
+/home/gabriel/lpr/Tarefas_LPR/Aula4/rpg/obj/Debug/net9.0/rpg.AssemblyInfo.cs
+/home/gabriel/lpr/Tarefas_LPR/Aula4/rpg/obj/Debug/net9.0/rpg.csproj.CoreCompileInputs.cache
+/home/gabriel/lpr/Tarefas_LPR/Aula4/rpg/obj/Debug/net9.0/rpg.sourcelink.json
+/home/gabriel/lpr/Tarefas_LPR/Aula4/rpg/obj/Debug/net9.0/rpg.dll
+/home/gabriel/lpr/Tarefas_LPR/Aula4/rpg/obj/Debug/net9.0/refint/rpg.dll
+/home/gabriel/lpr/Tarefas_LPR/Aula4/rpg/obj/Debug/net9.0/rpg.pdb
+/home/gabriel/lpr/Tarefas_LPR/Aula4/rpg/obj/Debug/net9.0/rpg.genruntimeconfig.cache
+/home/gabriel/lpr/Tarefas_LPR/Aula4/rpg/obj/Debug/net9.0/ref/rpg.dll
