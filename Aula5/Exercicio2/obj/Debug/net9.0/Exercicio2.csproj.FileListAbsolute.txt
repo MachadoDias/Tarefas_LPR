@@ -1,0 +1,15 @@
+/home/gabriel/lpr/Tarefas_LPR/Aula5/Exercicio2/bin/Debug/net9.0/Exercicio2
+/home/gabriel/lpr/Tarefas_LPR/Aula5/Exercicio2/bin/Debug/net9.0/Exercicio2.deps.json
+/home/gabriel/lpr/Tarefas_LPR/Aula5/Exercicio2/bin/Debug/net9.0/Exercicio2.runtimeconfig.json
+/home/gabriel/lpr/Tarefas_LPR/Aula5/Exercicio2/bin/Debug/net9.0/Exercicio2.dll
+/home/gabriel/lpr/Tarefas_LPR/Aula5/Exercicio2/bin/Debug/net9.0/Exercicio2.pdb
+/home/gabriel/lpr/Tarefas_LPR/Aula5/Exercicio2/obj/Debug/net9.0/Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/lpr/Tarefas_LPR/Aula5/Exercicio2/obj/Debug/net9.0/Exercicio2.AssemblyInfoInputs.cache
+/home/gabriel/lpr/Tarefas_LPR/Aula5/Exercicio2/obj/Debug/net9.0/Exercicio2.AssemblyInfo.cs
+/home/gabriel/lpr/Tarefas_LPR/Aula5/Exercicio2/obj/Debug/net9.0/Exercicio2.csproj.CoreCompileInputs.cache
+/home/gabriel/lpr/Tarefas_LPR/Aula5/Exercicio2/obj/Debug/net9.0/Exercicio2.sourcelink.json
+/home/gabriel/lpr/Tarefas_LPR/Aula5/Exercicio2/obj/Debug/net9.0/Exercicio2.dll
+/home/gabriel/lpr/Tarefas_LPR/Aula5/Exercicio2/obj/Debug/net9.0/refint/Exercicio2.dll
+/home/gabriel/lpr/Tarefas_LPR/Aula5/Exercicio2/obj/Debug/net9.0/Exercicio2.pdb
+/home/gabriel/lpr/Tarefas_LPR/Aula5/Exercicio2/obj/Debug/net9.0/Exercicio2.genruntimeconfig.cache
+/home/gabriel/lpr/Tarefas_LPR/Aula5/Exercicio2/obj/Debug/net9.0/ref/Exercicio2.dll
