@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HlvjqcObgG8=",
+  "dgSpecHash": "AET3/D9qJB4=",
   "success": true,
-  "projectFilePath": "/home/gabriel/lpr/Tarefas_LPR/Aula6/Exercicio3/Exercicio3.csproj",
+  "projectFilePath": "/home/gabriel/lpr/Tarefas_LPR/Funcoes/Exercicio3/Exercicio3.csproj",
   "expectedPackageFiles": [
     "/home/gabriel/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
   ],

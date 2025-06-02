@@ -1,0 +1,15 @@
+/home/gabriel/lpr/Tarefas_LPR/VetoresEMatrizes/Exercicio4/bin/Debug/net9.0/Exercicio4
+/home/gabriel/lpr/Tarefas_LPR/VetoresEMatrizes/Exercicio4/bin/Debug/net9.0/Exercicio4.deps.json
+/home/gabriel/lpr/Tarefas_LPR/VetoresEMatrizes/Exercicio4/bin/Debug/net9.0/Exercicio4.runtimeconfig.json
+/home/gabriel/lpr/Tarefas_LPR/VetoresEMatrizes/Exercicio4/bin/Debug/net9.0/Exercicio4.dll
+/home/gabriel/lpr/Tarefas_LPR/VetoresEMatrizes/Exercicio4/bin/Debug/net9.0/Exercicio4.pdb
+/home/gabriel/lpr/Tarefas_LPR/VetoresEMatrizes/Exercicio4/obj/Debug/net9.0/Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/lpr/Tarefas_LPR/VetoresEMatrizes/Exercicio4/obj/Debug/net9.0/Exercicio4.AssemblyInfoInputs.cache
+/home/gabriel/lpr/Tarefas_LPR/VetoresEMatrizes/Exercicio4/obj/Debug/net9.0/Exercicio4.AssemblyInfo.cs
+/home/gabriel/lpr/Tarefas_LPR/VetoresEMatrizes/Exercicio4/obj/Debug/net9.0/Exercicio4.csproj.CoreCompileInputs.cache
+/home/gabriel/lpr/Tarefas_LPR/VetoresEMatrizes/Exercicio4/obj/Debug/net9.0/Exercicio4.sourcelink.json
+/home/gabriel/lpr/Tarefas_LPR/VetoresEMatrizes/Exercicio4/obj/Debug/net9.0/Exercicio4.dll
+/home/gabriel/lpr/Tarefas_LPR/VetoresEMatrizes/Exercicio4/obj/Debug/net9.0/refint/Exercicio4.dll
+/home/gabriel/lpr/Tarefas_LPR/VetoresEMatrizes/Exercicio4/obj/Debug/net9.0/Exercicio4.pdb
+/home/gabriel/lpr/Tarefas_LPR/VetoresEMatrizes/Exercicio4/obj/Debug/net9.0/Exercicio4.genruntimeconfig.cache
+/home/gabriel/lpr/Tarefas_LPR/VetoresEMatrizes/Exercicio4/obj/Debug/net9.0/ref/Exercicio4.dll

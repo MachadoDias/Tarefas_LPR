@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gabriel/lpr/Tarefas_LPR/Aula5/Exercicio3/Exercicio3.csproj",
+      "projectUniqueName": "/home/gabriel/lpr/Tarefas_LPR/EstruturasDeRepeticao/Exercicio3/Exercicio3.csproj",
       "projectName": "Exercicio3",
-      "projectPath": "/home/gabriel/lpr/Tarefas_LPR/Aula5/Exercicio3/Exercicio3.csproj",
+      "projectPath": "/home/gabriel/lpr/Tarefas_LPR/EstruturasDeRepeticao/Exercicio3/Exercicio3.csproj",
       "packagesPath": "/home/gabriel/.nuget/packages/",
-      "outputPath": "/home/gabriel/lpr/Tarefas_LPR/Aula5/Exercicio3/obj/",
+      "outputPath": "/home/gabriel/lpr/Tarefas_LPR/EstruturasDeRepeticao/Exercicio3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gabriel/.nuget/NuGet/NuGet.Config"
