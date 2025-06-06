@@ -5,3 +5,6 @@
 **/obj
 
 **/output
+
+*.exe
+*.sln
