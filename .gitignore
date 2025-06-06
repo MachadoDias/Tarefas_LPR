@@ -1,2 +1,7 @@
-Tarefas_LPR.sln
-.vscode/tasks.json
+**/.vscode
+**/.vs
+
+**/bin
+**/obj
+
+**/output
