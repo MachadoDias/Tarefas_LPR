@@ -9,13 +9,13 @@ int main(){
     }
     int p; cin >> p;
     int possibilidades = 0;
-    bool possivel = true;
     for(int i=0; i<p; i++){
         int n; cin >> n;
         vector<int> passeio(n);
         for(int j=0; j<n; j++){
             cin >> passeio[j];
         }
+        bool possivel = true;
         for(int j=0; j<n - 1; j++){
             if(!mapa[passeio[j]].count(passeio[j+1])) possivel = false;
         }

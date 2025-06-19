@@ -21,7 +21,7 @@ int main(){
     // Cria um set para armazenar os infectados
     infectados.insert(infectado);
     bool contaminou = false;
-    // Variável para armazenar se amigo infectado estava na reunião
+    // Variável para armazenar se um amigo infectado estava na reunião
     for(int i = r -1; i<m; i++){
         for(int j = 0; j < amigos[i].size(); j++){
             if(infectados.count(amigos[i][j])) contaminou = true;
