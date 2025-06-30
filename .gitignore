@@ -13,3 +13,5 @@
 *.sln
 
 **/*.exe
+
+**/RevendoExercicios
